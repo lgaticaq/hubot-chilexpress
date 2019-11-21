@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/juanbrujo/hubot-chilexpress/issues"
   },
-  "homepage": "https://github.com/juanbrujo/hubot-chilexpress#readme"
+  "homepage": "https://github.com/juanbrujo/hubot-chilexpress#readme",
+  "dependencies": {
+    "chilexpress": "3.0.0"
+  }
 }
